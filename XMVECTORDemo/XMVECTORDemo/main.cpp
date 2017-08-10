@@ -38,5 +38,6 @@ int main() {
 	cout << "v = " << v << endl;
 	cout << "w = " << w << endl;
 	
+	Sleep(5000);
 	return 0;
 }
